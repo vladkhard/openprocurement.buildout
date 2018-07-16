@@ -2,3 +2,4 @@ setuptools==7.0
 zc.buildout==2.2.5
 pbr==1.10.0
 ipdb==0.10.2
+pytest==3.6.2
